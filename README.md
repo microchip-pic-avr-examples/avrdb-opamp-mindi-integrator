@@ -16,9 +16,6 @@ Press the _play_ button to simulate with an example stimulus source.
 ### Tweaking
 The rate of integration can be adjusted by changing the external component values. The internal configuration has no adjustable parameters.
 
-### Updating composer fields
-Once the desired result has been verified with Mindi simulation, the corrected values should be moved back into MCC/Start by copying resistor configurations across to the composer of your preference.
-
 ### Don't have Mindi?
 Download and install [Mindi simulation tool](https://www.microchip.com/mplab/mplab-mindi)
 Download and install Mindi model for AVR DB device
