@@ -699,16 +699,16 @@ TextBlockInfo company="MICROCHIP TECHNOLOGY INC" title="Integrator AVR DB" autho
 Property name="StyleNormal" value="DefaultTitleBlock" autopos=1 normal=Left rotated=Left visible=0 font=Default order=-1
 Property name="StyleSelected" value="DefaultTitleBlockSelected" autopos=1 normal=Left rotated=Left visible=0 font=Default order=-1
 .EndTitleBlockAnnotation
-Text value=".simulator SIMETRIX\n.TRAN 1u 3m\n.options noraw\n+  KeepNoi\n.inc .\\AVR_DB_OPAMP_Enc.lib\n.simulator DEFAULT\n"
+Text value=".simulator SIMETRIX\n.TRAN 1u 3m\n.options noraw\n+  KeepNoi\n.simulator DEFAULT\n"
 LicenseInfo version="8.20l" feats=Basic|AD|Micron|Mcore2|Schematic|Advanced|Sim|Demo|Rtn|SIMPLIS_IF|beta serial=unknown user="unknown" code=unknown product="MPLAB Mindi" binarch=x86 system="WINNT/10.0/x64/17062916096/2/1/4/1398380449"
 SimulatorMode value="SIMetrix"
-View x=-1432 y=-6275 zoomlevel=32 zoom=9 snapgrid=120 offsetX=1432 offsetY=1956
+View x=-2125 y=-1956 zoomlevel=32 zoom=9 snapgrid=120 offsetX=1432 offsetY=1956
 Property name="CreateProduct" value="MPLAB Mindi" type=value
 Property name="CurrentMeasureItem" value="Mean|0|0|1|" type=value
 Property name="dcdFilter" value="all;" type=value
 Property name="GUID" value="{56496952-a2eb-4bf4-84fb-51c1a8aed7d8}" type=value
 Property name="PlaceSymbol" value="Analog_Switch" type=value
-Property name="UserVersion" value="21" type=value
-Property name="WriteLog" value="21/21/534281/534281" type=value
+Property name="UserVersion" value="22" type=value
+Property name="WriteLog" value="22/22/534326/534326" type=value
 .EndSchematic
 .EndComponent
