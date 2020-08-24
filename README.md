@@ -1,4 +1,4 @@
-# Getting started with Mindi® simulation and AVR®DB microcontrollers
+# Getting started with Mindi™ simulation and AVR®DB microcontrollers
 This guide will get you up and running with simulating the analog OPAMP module in AVR DB family devices using the Mindi simulation tool.
 ## Configuration: Integrator
 The op amp can be configured to act as an integrator, using an external capacitor and resistor.
