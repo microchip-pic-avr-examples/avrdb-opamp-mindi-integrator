@@ -10,7 +10,7 @@ The integrator can be reset by the event system.
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](schematics/)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/avrdb-opamp-mindi-integrator/releases/latest)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
